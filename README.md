@@ -1,6 +1,8 @@
 # stock-simulator
 A stock-trading-simulator
 
+### Click here --- https://pvn-leo.github.io/stock-simulator
+
 
 This stock-trading simulator was built using html, bootstrap css, and javascript. 
 
