@@ -1,10 +1,10 @@
 # stock-simulator
 A stock-trading-simulator
 
-### Click here --- https://pvn-leo.github.io/stock-simulator
+### Click here --- https://pvn-a.github.io/stock-simulator
 
 
-This stock-trading simulator was built using html, bootstrap css, and javascript. 
+This stock-trading simulator was built using html, bootstrap css, and Vanilla Javascript. This project was only done for fun and self learning purposes.
 
 
 ## Rules  
